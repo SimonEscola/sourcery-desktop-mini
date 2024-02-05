@@ -1,0 +1,128 @@
+refresh:
+https://schulwebsite.com/adminconsole/www/public_html//ajax/scripts/getSourcistoryData.php?draw=2&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=build&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=author&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=commitInfo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=author&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=dryRun&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=deploymentGroup&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=-1&search%5Bvalue%5D=&search%5Bregex%5D=false&deploymentGroupId=12075&instanceId=0&_=1707141026604
+
+refresh 2:
+https://schulwebsite.com/adminconsole/www/public_html//ajax/scripts/getSourcistoryData.php?draw=11&columns%5B0%5D%5Bdata%5D=id&columns%5B0%5D%5Bname%5D=&columns%5B0%5D%5Bsearchable%5D=true&columns%5B0%5D%5Borderable%5D=false&columns%5B0%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B0%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B1%5D%5Bdata%5D=build&columns%5B1%5D%5Bname%5D=&columns%5B1%5D%5Bsearchable%5D=true&columns%5B1%5D%5Borderable%5D=false&columns%5B1%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B1%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B2%5D%5Bdata%5D=author&columns%5B2%5D%5Bname%5D=&columns%5B2%5D%5Bsearchable%5D=true&columns%5B2%5D%5Borderable%5D=false&columns%5B2%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B2%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B3%5D%5Bdata%5D=commitInfo&columns%5B3%5D%5Bname%5D=&columns%5B3%5D%5Bsearchable%5D=true&columns%5B3%5D%5Borderable%5D=false&columns%5B3%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B3%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B4%5D%5Bdata%5D=author&columns%5B4%5D%5Bname%5D=&columns%5B4%5D%5Bsearchable%5D=true&columns%5B4%5D%5Borderable%5D=false&columns%5B4%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B4%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B5%5D%5Bdata%5D=dryRun&columns%5B5%5D%5Bname%5D=&columns%5B5%5D%5Bsearchable%5D=true&columns%5B5%5D%5Borderable%5D=false&columns%5B5%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B5%5D%5Bsearch%5D%5Bregex%5D=false&columns%5B6%5D%5Bdata%5D=deploymentGroup&columns%5B6%5D%5Bname%5D=&columns%5B6%5D%5Bsearchable%5D=true&columns%5B6%5D%5Borderable%5D=false&columns%5B6%5D%5Bsearch%5D%5Bvalue%5D=&columns%5B6%5D%5Bsearch%5D%5Bregex%5D=false&start=0&length=-1&search%5Bvalue%5D=&search%5Bregex%5D=false&deploymentGroupId=12075&instanceId=0&_=1707141026613
+
+
+
+built response:
+{
+    "draw": "21",
+    "recordsTotal": 1,
+    "recordsFiltered": 1,
+    "data": [
+        {
+            "id": 12075,
+            "author": {
+                "name": "simon@escola.ch",
+                "photo": ""
+            },
+            "name": "build and deploy of ref simon-lab",
+            "created": "2024-02-05T14:50:26.127Z",
+            "count": 1,
+            "successCount": 0,
+            "finishedCount": 0,
+            "success": false,
+            "finished": false,
+            "dryRun": false,
+            "build": {
+                "success": true,
+                "deleted": false,
+                "id": 12075,
+                "author": "simon@escola.ch",
+                "created": "2024-02-05T14:50:26.124Z",
+                "finished": "2024-02-05T13:52:29.000Z"
+            },
+            "deploymentGroup": {
+                "id": 39,
+                "name": "Entwicklungsschule Simon",
+                "branchName": "simon-lab"
+            },
+            "commitInfo": {
+                "commitName": "Merge branch 'telephony-iteration-1' into simon-lab",
+                "commitDescription": "",
+                "commitId": "acad79e62e7cb6a1bd1069bad197359a5b4198b4",
+                "author": "Simon Schwedes <simon@escola.ch>",
+                "ref": "simon-lab",
+                "creationDate": "2024-02-05T13:49:58.000Z"
+            },
+            "instances": [
+                {
+                    "success": false,
+                    "id": 1395855,
+                    "instanceId": 332,
+                    "name": "Entwicklungsschule Simon",
+                    "created": "2024-02-05T14:50:26.149Z",
+                    "finished": null
+                }
+            ],
+            "selectedInstanceId": 332,
+            "selectedLogId": 1395855,
+            "log": ""
+        }
+    ]
+}
+
+deployed response:
+{
+    "draw": "22",
+    "recordsTotal": 1,
+    "recordsFiltered": 1,
+    "data": [
+        {
+            "id": 12075,
+            "author": {
+                "name": "simon@escola.ch",
+                "photo": ""
+            },
+            "name": "build and deploy of ref simon-lab",
+            "created": "2024-02-05T14:50:26.127Z",
+            "count": 1,
+            "successCount": 1,
+            "finishedCount": 1,
+            "success": true,
+            "finished": true,
+            "dryRun": false,
+            "build": {
+                "success": true,
+                "deleted": false,
+                "id": 12075,
+                "author": "simon@escola.ch",
+                "created": "2024-02-05T14:50:26.124Z",
+                "finished": "2024-02-05T13:52:29.000Z"
+            },
+            "deploymentGroup": {
+                "id": 39,
+                "name": "Entwicklungsschule Simon",
+                "branchName": "simon-lab"
+            },
+            "commitInfo": {
+                "commitName": "Merge branch 'telephony-iteration-1' into simon-lab",
+                "commitDescription": "",
+                "commitId": "acad79e62e7cb6a1bd1069bad197359a5b4198b4",
+                "author": "Simon Schwedes <simon@escola.ch>",
+                "ref": "simon-lab",
+                "creationDate": "2024-02-05T13:49:58.000Z"
+            },
+            "instances": [
+                {
+                    "success": true,
+                    "id": 1395855,
+                    "instanceId": 332,
+                    "name": "Entwicklungsschule Simon",
+                    "created": "2024-02-05T14:50:26.149Z",
+                    "finished": "2024-02-05T13:52:33.000Z"
+                }
+            ],
+            "selectedInstanceId": 332,
+            "selectedLogId": 1395855,
+            "log": "sending incremental file list\n<f..t...... Core\/Models\/Resources\/RoomsTimes.php\n*deleting   dist\/vue-slicksort.esm-ef98aad0.js\n*deleting   dist\/util-f7593c33.js\n*deleting   dist\/useSelfResettingCheck-32df24ec.js\n*deleting   dist\/useLoader-963f6d43.js\n*deleting   dist\/string-1cf6605e.js\n*deleting   dist\/searchAndHighlight-c4f5aa6d.js\n*deleting   dist\/schoolUnits-7285a062.js\n*deleting   dist\/index-f6d7cb91.js\n*deleting   dist\/index-c833481a.js\n*deleting   dist\/index-b62d09b3.js\n*deleting   dist\/index-ada915d7.js\n*deleting   dist\/index-8e987685.js\n*deleting   dist\/index-7e2e6754.js\n*deleting   dist\/index-76741880.js\n*deleting   dist\/index-315b7268.js\n*deleting   dist\/index-156b92b1.js\n*deleting   dist\/WeightBar-ab11e16c.js\n*deleting   dist\/TransformTemplate-4d39ba35.js\n*deleting   dist\/TotpOverview-7e2e525c.js\n*deleting   dist\/Tooltip-e8db16b5.js\n*deleting   dist\/TemplatesAdmin-3641c4ff.js\n*deleting   dist\/TemplateDownload-fd2c7df6.js\n*deleting   dist\/SwitchButton-9c3113fb.js\n*deleting   dist\/StudentPlanHead-434739e9.js\n*deleting   dist\/StudentPlan-27b20f01.js\n*deleting   dist\/StudentMeasuresSections-6b3838bf.js\n*deleting   dist\/StudentMeasuresOverview-4b507471.js\n*deleting   dist\/StudentMeasures-70d0a2de.js\n*deleting   dist\/SingleSelect-177df440.js\n*deleting   dist\/SinglePersonMapModal-f677ff01.js\n*deleting   dist\/SinglePerson-ebf088cd.js\n*deleting   dist\/SimpleMenuItemWithIcon-ba652b01.js\n*deleting   dist\/SimpleMenuItem-7c0c34e7.js\n*deleting   dist\/SettingsSetup-06e01199.js\n*deleting   dist\/Settings-29a94c2f.js\n*deleting   dist\/ServicesSchoolDayViewWrapper-0e2d8c69.js\n*deleting   dist\/ServicesSchoolDayView-a05e0823.js\n*deleting   dist\/ServicesRspPersonDayView-550bd19c.js\n*deleting   dist\/ServicesPersonBooking-d4b3309d.js\n*deleting   dist\/ServicesParentView-983d48c8.js\n*deleting   dist\/ServicesInterface-49216b42.js\n*deleting   dist\/ServiceIcon-38d11006.js\n*deleting   dist\/SchoolclassWorkgroupPicker-b7c5d2c7.js\n*deleting   dist\/ResetPassword-64a18102.js\n*deleting   dist\/ReceiverSelection-4e74e6e7.js\n*deleting   dist\/ReadConfirmation-043d91d0.js\n*deleting   dist\/PersonSearch-0859d91b.js\n*deleting   dist\/PersonPicker-34173870.js\n*deleting   dist\/PersonManagerExportModal-b06541d4.js\n*deleting   dist\/PersonBooking-56194e54.js\n*deleting   dist\/PasswordSecurityIndicator-e1116783.js\n*deleting   dist\/OverviewList-2d9dc0ec.js\n*deleting   dist\/Overview-dac108c0.js\n*deleting   dist\/ObsSne-462b5ff4.js\n*deleting   dist\/ObsConfig-a23f53a9.js\n*deleting   dist\/Notification-7b1a491b.js\n*deleting   dist\/NotMobile-21ecf0bf.js\n*deleting   dist\/NavigationOverview-bda3a8fe.js\n*deleting   dist\/NavigationOverview-bbf8652a.js\n*deleting   dist\/NavTabbed-5467532f.js\n*deleting   dist\/NavButtons-e15a73f2.js\n*deleting   dist\/MultiSelectFilter-ae3c018f.js\n*deleting   dist\/MultiSelect-89ac573c.js\n*deleting   dist\/MultiPersonMapModal-0e901f42.js\n*deleting   dist\/Modal-6eab1e39.js\n*deleting   dist\/MobileOverview-a6a3bacc.js\n*deleting   dist\/MessengerModal.vue_vue_type_script_setup_true_lang-1176e66b.js\n*deleting   dist\/MapSection.vue_vue_type_script_setup_true_lang-6b1624ea.js\n*deleting   dist\/Login-f1d4bc1a.js\n*deleting   dist\/ListView-abea4bd9.js\n*deleting   dist\/Label-d474e46e.js\n*deleting   dist\/Invite-c690e028.js\n*deleting   dist\/InterchangableIcon-08e0677b.js\n*deleting   dist\/ImportSubmitChangeRequest-6f7b5c52.js\n*deleting   dist\/ImportInterface-570fcb20.js\n*deleting   dist\/HorizontalSeparator-3bb34e25.js\n*deleting   dist\/GuardianStudentAccessMatrix-620eb3c7.js\n*deleting   dist\/GradientedBar-e873b792.js\n*deleting   dist\/FormListView-9243fe0b.js\n*deleting   dist\/FormError-7c5a1f7c.js\n*deleting   dist\/FormCollection-f92380e8.js\n*deleting   dist\/Form-e3b6ab23.js\n*deleting   dist\/Folder.vue_vue_type_script_setup_true_lang-7ea1db35.js\n*deleting   dist\/Folder-833f7416.js\n*deleting   dist\/Field.vue_vue_type_script_setup_true_lang-cd16926f.js\n*deleting   dist\/ExportSync-9e162baa.js\n*deleting   dist\/Expandable-27d39754.js\n*deleting   dist\/EvaluationBar-b61261db.js\n*deleting   dist\/EntryContentSlot.vue_vue_type_style_index_0_lang-569be750.js\n*deleting   dist\/EmployeeRolePicker-58bd4eeb.js\n*deleting   dist\/EditObservation-23bc76e4.js\n*deleting   dist\/DeleteButton-c0b0ac8a.js\n*deleting   dist\/DateRangesPicker-5dda1060.js\n*deleting   dist\/ContactPersonOverview-e6e1dbd7.js\n*deleting   dist\/ConfirmRead-47fb5eff.js\n*deleting   dist\/ConfigView-ee7b68a1.js\n*deleting   dist\/CheckboxSlider-8615ee4d.js\n*deleting   dist\/Checkbox-2fa0f05c.js\n*deleting   dist\/ChangePassword-314d0179.js\n*deleting   dist\/CertificateFormList-b676c134.js\n*deleting   dist\/Billing-d512734a.js\n*deleting   dist\/BModalReplacement-6289e202.js\n*deleting   dist\/AvailabilityMatrix-bca2f304.js\n*deleting   dist\/AttendanceSwitch-56beaf38.js\n*deleting   dist\/AttendanceDropdown-92bc905d.js\n*deleting   dist\/AttachPoint-21db958f.js\n*deleting   dist\/AgendaModal-78cfdf60.js\n<f+++++++++ dist\/AgendaModal-ffee989d.js\n<f+++++++++ dist\/AttachPoint-241c86ab.js\n<f+++++++++ dist\/AttendanceDropdown-e223e086.js\n<f+++++++++ dist\/AttendanceSwitch-c5643121.js\n<f+++++++++ dist\/AvailabilityMatrix-d02e8c22.js\n<f+++++++++ dist\/BModalReplacement-8a7cfbbd.js\n<f+++++++++ dist\/Billing-3ec23d52.js\n<f+++++++++ dist\/CertificateFormList-fad9e90d.js\n<f+++++++++ dist\/ChangePassword-1e5a1f54.js\n<f+++++++++ dist\/Checkbox-e986fa02.js\n<f+++++++++ dist\/CheckboxSlider-0952eb5e.js\n<f+++++++++ dist\/ConfigView-9fef416e.js\n<f+++++++++ dist\/ConfirmRead-51e03d38.js\n<f+++++++++ dist\/ContactPersonOverview-49a98c77.js\n<f+++++++++ dist\/DateRangesPicker-b74a3917.js\n<f+++++++++ dist\/DeleteButton-7982ff08.js\n<f+++++++++ dist\/EditObservation-e6f8e6b3.js\n<f+++++++++ dist\/EmployeeRolePicker-ff333216.js\n<f+++++++++ dist\/EntryContentSlot.vue_vue_type_style_index_0_lang-4af67eaf.js\n<f+++++++++ dist\/EvaluationBar-3d9ac275.js\n<f+++++++++ dist\/Expandable-86ed372d.js\n<f+++++++++ dist\/ExportSync-4964990d.js\n<f+++++++++ dist\/Field.vue_vue_type_script_setup_true_lang-659268f9.js\n<f+++++++++ dist\/Folder-a4ec52e0.js\n<f+++++++++ dist\/Folder.vue_vue_type_script_setup_true_lang-4a2efffe.js\n<f+++++++++ dist\/Form-794fe2cf.js\n<f+++++++++ dist\/FormCollection-27f9ef3e.js\n<f+++++++++ dist\/FormError-4e277235.js\n<f+++++++++ dist\/FormListView-09a16e75.js\n<f+++++++++ dist\/GradientedBar-2d8e90a0.js\n<f+++++++++ dist\/GuardianStudentAccessMatrix-d71a4e33.js\n<f+++++++++ dist\/HorizontalSeparator-5f89111c.js\n<f+++++++++ dist\/ImportInterface-e24d9b4d.js\n<f+++++++++ dist\/ImportSubmitChangeRequest-cb7d9e13.js\n<f+++++++++ dist\/InterchangableIcon-8a230e39.js\n<f+++++++++ dist\/Invite-e27b3ca9.js\n<f+++++++++ dist\/Label-f8aeab2c.js\n<f+++++++++ dist\/ListView-273acdfb.js\n<f+++++++++ dist\/Login-d38e5254.js\n<f+++++++++ dist\/MapSection.vue_vue_type_script_setup_true_lang-b70edf59.js\n<f+++++++++ dist\/MessengerModal.vue_vue_type_script_setup_true_lang-a6524212.js\n<f+++++++++ dist\/MobileOverview-9d9a134d.js\n<f+++++++++ dist\/Modal-ff19a048.js\n<f+++++++++ dist\/MultiPersonMapModal-4304ce5e.js\n<f+++++++++ dist\/MultiSelect-abbf9e19.js\n<f+++++++++ dist\/MultiSelectFilter-25b0cf6a.js\n<f+++++++++ dist\/NavButtons-bc03a36a.js\n<f+++++++++ dist\/NavTabbed-dc89c476.js\n<f+++++++++ dist\/NavigationOverview-01f5b20a.js\n<f+++++++++ dist\/NavigationOverview-e03e7ae2.js\n<f+++++++++ dist\/NotMobile-26651b9f.js\n<f+++++++++ dist\/Notification-fd086c18.js\n<f+++++++++ dist\/ObsConfig-3a478f83.js\n<f+++++++++ dist\/ObsSne-0af74c48.js\n<f+++++++++ dist\/Overview-cee54e6c.js\n<f+++++++++ dist\/OverviewList-eae8ef98.js\n<f+++++++++ dist\/PasswordSecurityIndicator-ef7ba95e.js\n<f+++++++++ dist\/PersonBooking-74db9afa.js\n<f+++++++++ dist\/PersonManagerExportModal-f74e4fa0.js\n<f+++++++++ dist\/PersonPicker-eb4d26da.js\n<f+++++++++ dist\/PersonSearch-1114e005.js\n<f+++++++++ dist\/ReadConfirmation-b01d3d45.js\n<f+++++++++ dist\/ReceiverSelection-6aaa705b.js\n<f+++++++++ dist\/ResetPassword-96670923.js\n<f+++++++++ dist\/SchoolclassWorkgroupPicker-e00b4e3a.js\n<f+++++++++ dist\/ServiceIcon-b0005ad7.js\n<f+++++++++ dist\/ServicesInterface-9adf4f60.js\n<f+++++++++ dist\/ServicesParentView-310f2017.js\n<f+++++++++ dist\/ServicesPersonBooking-dbf6956f.js\n<f+++++++++ dist\/ServicesRspPersonDayView-04e650fc.js\n<f+++++++++ dist\/ServicesSchoolDayView-a3515c5b.js\n<f+++++++++ dist\/ServicesSchoolDayViewWrapper-6619e6ab.js\n<f+++++++++ dist\/Settings-615c8c68.js\n<f+++++++++ dist\/SettingsSetup-07903b31.js\n<f+++++++++ dist\/SimpleMenuItem-c08ee8f0.js\n<f+++++++++ dist\/SimpleMenuItemWithIcon-abf7f6a5.js\n<f+++++++++ dist\/SinglePerson-a88fdbd0.js\n<f+++++++++ dist\/SinglePersonMapModal-872d6a6f.js\n<f+++++++++ dist\/SingleSelect-32aaf7ab.js\n<f+++++++++ dist\/StudentMeasures-86643431.js\n<f+++++++++ dist\/StudentMeasuresOverview-70c3a5f5.js\n<f+++++++++ dist\/StudentMeasuresSections-fd3bc482.js\n<f+++++++++ dist\/StudentPlan-a99fc129.js\n<f+++++++++ dist\/StudentPlanHead-f0397d77.js\n<f+++++++++ dist\/SwitchButton-ccbd3a82.js\n<f+++++++++ dist\/TemplateDownload-84fcb891.js\n<f+++++++++ dist\/TemplatesAdmin-3b7d2f3e.js\n<f+++++++++ dist\/Tooltip-6d56d264.js\n<f+++++++++ dist\/TotpOverview-7e8e0b57.js\n<f+++++++++ dist\/TransformTemplate-3f7f192d.js\n<f+++++++++ dist\/WeightBar-eb5145dc.js\n<f+++++++++ dist\/index-0d670cda.js\n<f+++++++++ dist\/index-3a07be64.js\n<f+++++++++ dist\/index-3ec8c4a4.js\n<f+++++++++ dist\/index-8c1314be.js\n<f+++++++++ dist\/index-8d5eb3bf.js\n<f+++++++++ dist\/index-d145b3df.js\n<f+++++++++ dist\/index-da48f12b.js\n<f+++++++++ dist\/index-f99ec94f.js\n<f+++++++++ dist\/index-fe1e788f.js\n<f..t...... dist\/index.html\n<f..t...... dist\/loginUtil.js\n<f+++++++++ dist\/schoolUnits-16039bea.js\n<f+++++++++ dist\/searchAndHighlight-96cce78c.js\n<f+++++++++ dist\/string-5ea5d325.js\n<f+++++++++ dist\/useLoader-2b237f65.js\n<f+++++++++ dist\/useSelfResettingCheck-bac3766b.js\n<f+++++++++ dist\/util-75957475.js\n<f..t...... dist\/util.js\n<f+++++++++ dist\/vue-slicksort.esm-c2f5f33f.js\n<f..t...... inc\/ajax\/raumverwaltung\/ajax_functions_rv.php\n<f..t...... inc\/classes\/raumverwaltung.class.php\n<f..t...... vendor\/autoload.php\n.L..t...... vendor\/bin\/carbon -> ..\/nesbot\/carbon\/bin\/carbon\n.L..t...... vendor\/bin\/doctrine -> ..\/doctrine\/orm\/bin\/doctrine\n.L..t...... vendor\/bin\/doctrine-dbal -> ..\/doctrine\/dbal\/bin\/doctrine-dbal\n.L..t...... vendor\/bin\/generate-deps-for-config-factory -> ..\/zendframework\/zend-servicemanager\/bin\/generate-deps-for-config-factory\n.L..t...... vendor\/bin\/generate-factory-for-class -> ..\/zendframework\/zend-servicemanager\/bin\/generate-factory-for-class\n.L..t...... vendor\/bin\/jp.php -> ..\/mtdowling\/jmespath.php\/bin\/jp.php\n.L..t...... vendor\/bin\/patch-type-declarations -> ..\/symfony\/error-handler\/Resources\/bin\/patch-type-declarations\n.L..t...... vendor\/bin\/var-dump-server -> ..\/symfony\/var-dumper\/Resources\/bin\/var-dump-server\n<f..t...... vendor\/composer\/ClassLoader.php\n<f..t...... vendor\/composer\/InstalledVersions.php\n<f..t...... vendor\/composer\/LICENSE\n<f..t...... vendor\/composer\/autoload_classmap.php\n<f..t...... vendor\/composer\/autoload_files.php\n<f..t...... vendor\/composer\/autoload_namespaces.php\n<f..t...... vendor\/composer\/autoload_psr4.php\n<f..t...... vendor\/composer\/autoload_real.php\n<f..t...... vendor\/composer\/autoload_static.php\n<f..t...... vendor\/composer\/installed.json\n<f..t...... vendor\/composer\/installed.php\n<f..t...... vendor\/composer\/package-versions-deprecated\/src\/PackageVersions\/Versions.php\n<f..t...... vendor\/sofa\/hookable\/.gitattributes\n<f..t...... vendor\/sofa\/hookable\/README.md\n<f..t...... vendor\/sofa\/hookable\/composer.json\n<f..t...... vendor\/sofa\/hookable\/.github\/FUNDING.yml\n<f..t...... vendor\/sofa\/hookable\/.github\/workflows\/tests.yml\n<f..t...... vendor\/sofa\/hookable\/spec\/ArgumentBagSpec.php\n<f..t...... vendor\/sofa\/hookable\/spec\/BuilderSpec.php\n<f..t...... vendor\/sofa\/hookable\/spec\/HookableSpec.php\n<f..t...... vendor\/sofa\/hookable\/spec\/PipelineSpec.php\n<f..t...... vendor\/sofa\/hookable\/src\/ArgumentBag.php\n<f..t...... vendor\/sofa\/hookable\/src\/Builder.php\n<f..t...... vendor\/sofa\/hookable\/src\/Hookable.php\n<f..t...... vendor\/sofa\/hookable\/src\/Pipeline.php\n<f..t...... vendor\/sofa\/hookable\/src\/Contracts\/ArgumentBag.php\n<f..t...... vendor\/sofa\/hookable\/src\/Contracts\/Pipeline.php\n.L..t...... vendor\/zendframework\/zend-config\/doc\/book\/index.md -> ..\/..\/README.md\n\nsent 5,190,271 bytes  received 22,887 bytes  1,158,479.56 bytes\/sec\ntotal size is 1,305,215,990  speedup is 250.37\n"
+        }
+    ]
+}
+
+
+
+deploy url:
+curl -d 'author=simon@escola.ch&dryRun=false&deploymentGroupId=39&secret=9efc67bbb49f084600f9bb78eb807c0e' https://schulwebsite.com/adminconsole/www/public_html/sourcery.php
